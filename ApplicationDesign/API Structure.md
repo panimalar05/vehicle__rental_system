@@ -1,4 +1,4 @@
-API Endpoint List — Vehicle Rental & Fleet Management System
+API Endpoint List - Vehicle Rental & Fleet Management System
 
 1. Authentication APIs
 1.1 Register Customer
